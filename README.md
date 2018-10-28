@@ -4,16 +4,14 @@
 Written by Shen Zhou Hong [`<shong@sjc.edu>`](mailto:shong@sjc.edu)
 
 ## Summary
-In Aeschylus's *Agamemnon*, the character of Clytemnestra consistently
-confronts the gender-norms set forth in Agamemnon. Her man-like behavior is
-noted by the townsmen of Argos, and eventually culminates in the slaying of
-her husband Agamemnon, on his return back from Troy. Clytemnestra's
-remorseless speech and audacious actions is contrasted with the meek
-deliberations of the Argive townsmen, who falter at the screams of their king.
-This essay seeks to examine how Clytemnestra's pursuit of justice requires a
-subversion of her role as a woman in the norms of set forth in the play, and how
-by righting the sacrifice of Iphigenia through the mete of blood, Clytemnestra
-transcends her expectations of womanhood.
+The Aeschylus's Homeric play *Agamemnon* is set in a world where the status of
+women is consistently placed beneath that of men. Despite this, the character of
+Clytemnestra consistently confronts, and challenges the inequitable gender-norms
+set forth in Agamemnon. Her *"man-like"* behavior is noted by the townsmen of
+Argos, and eventually culminates to a high point, in her slaying of her husband
+Agamemnon. The killing of Agamemnon becomes the definite moment where
+Clytemnestra ceases to conform within the norms of womanhood, and acts in the
+stead of a male hero, seeking justice through revenge.
 
 ## Parts of the thesis
 ### What are the gender norms for women in Aeschylus's *Agamemnon*?
