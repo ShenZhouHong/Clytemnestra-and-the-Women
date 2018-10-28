@@ -38,11 +38,18 @@ norms of women in contrast to men:
 ### How does Clytemnestra challenge and surpass these gender norms?
 Through textual evidence, show how Clytemnestra challenges the norms set forth
 in *Agamemnon*
-  - The signal beacons set up by Clytemnestra, and the scepticism of her news
-    at the hands of the Argive townsmen.
-  - The "spoken wisely like a man" remark at `351`.
-  - Particularly when Clytemnestra chides the Argive townsmen for not
-    believing in her at `590`.
+- **Line # `275`:** In response to the doubts of the Argive townsmen, rather
+  than yielding assent, Clytemnestra vocally refutes their misgivings.
+- **Line # `350`:** The Argive townsmen comments on her speech about her signal
+  beacons, saying that she has "spoke like a man".
+- **Line # `600`:** After the arrival of the Herald, the Argive townsmen sends
+  the Herald to relate the news of the sacking of Troy. Clytemnestra refuses to
+  let him repeat it, and chides the Argive townsmen for not believing her.
+  - In response to this reproach, the Herald says that the speech is
+    `un-wifelike` (**Line # `613`**).
+- **Line # `941`:** In Clytemnestra's scene where she urges Agamemnon to step on
+  the tapestries, her forceful persuasion causes Agamemnon to comment "Surely
+  tis' not a woman's part to be fond of contest".
 
 ### How does Clytemnestra's killing of Agamemnon relate to the role of her gender?
 - Examine the pursuit of justice in Homeric literature, and how it is almost
