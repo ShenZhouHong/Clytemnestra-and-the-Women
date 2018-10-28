@@ -58,16 +58,32 @@ in *Agamemnon*
   - **Textual evidence #1:** It is the men who seek Helen, in Homer's Iliad.
   - **Textual evidence #2:** Likewise, it is Odysseus and Telemachus who avenge
     Penelope of her suitors.
-  - **Textual evidence #3:** The only counterexample that we can perceive is that of
-    Antigone, but even in her case her seeking of justice is a passive one,
-    rather than active.
+  - **Textual evidence #3:** The only counterexample that we can perceive is
+    that of Antigone, but even in her case her seeking of justice is a passive
+    one, rather than active.
 - Secondly, note how the idea of a woman slaying a man is completely
   unimaginable to the Argive townsmen, even when Cassandra tells them of the
   slaying in advance. Specifically, quote the exchange at **Line # `1250`**,
   where the Argive townsmen assume it is a man.
 - Compare and contrast the meek and 'woman-like' deliberations of the Argive
   townsmen after hearing the cries of their king, with Clytemnestra's bold
-  speech.
+  speech. She also says that they think of her as a witless woman, but she is
+  not.
+
+## Some notes on Clytemnestra's speech
+- Note how Clytemnestra displays her husband to the Argive townsmen, and very
+  purposely say that it is her intent and forthright will to kill her husband
+  -- but immediately, the townsmen dismiss her speech by asking if she is mad.
+- Next, Clytemnestra speaks about how she killed Agamemnon to avenge the death
+  of Iphigenia. Her argument is very passionate, for she acknowledges the sheer
+  inequity of roles they play -- how Agamemnon is praised, but she the murderer.
+- Additionally note how the reply of the Chorus is deeply laments. It is clear
+  that one of the reasons they are so shocked by his murder, is that it has
+  been committed at the hands of a woman.
+- Pay particular attention to the speech by Clytemnestra at **Line # `1530`**,
+  where she literally takes on the role of Thyestes, the guest of Atreus who
+  was wronged evilly.
+
 
 ## Technical information.
 This essay is written and typeset in LaTeX, an open source document typesetting
