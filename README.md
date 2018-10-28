@@ -52,14 +52,22 @@ in *Agamemnon*
   tis' not a woman's part to be fond of contest".
 
 ### How does Clytemnestra's killing of Agamemnon relate to the role of her gender?
-- Examine the pursuit of justice in Homeric literature, and how it is almost
-  entirely relegated as a man's pursuit.
-  - In the Iliad, it is the men who seek out justice for the kidnapping of
-    Helen.
-  - Likewise in the Odyssey, it is also Odysseus who enacts revenge upon
-    the suitors.
-- Show how Clytemnestra acts in contrary to such establishment, and literally
-  seeks justice in her own hands.
+- First, note how within Homeric literature, the pursuit of justice through the
+  mete of blood (i.e. seeking justice by the sword) is a task that is relegated
+  almost entirely to men:
+  - **Textual evidence #1:** It is the men who seek Helen, in Homer's Iliad.
+  - **Textual evidence #2:** Likewise, it is Odysseus and Telemachus who avenge
+    Penelope of her suitors.
+  - **Textual evidence #3:** The only counterexample that we can perceive is that of
+    Antigone, but even in her case her seeking of justice is a passive one,
+    rather than active.
+- Secondly, note how the idea of a woman slaying a man is completely
+  unimaginable to the Argive townsmen, even when Cassandra tells them of the
+  slaying in advance. Specifically, quote the exchange at **Line # `1250`**,
+  where the Argive townsmen assume it is a man.
+- Compare and contrast the meek and 'woman-like' deliberations of the Argive
+  townsmen after hearing the cries of their king, with Clytemnestra's bold
+  speech.
 
 ## Technical information.
 This essay is written and typeset in LaTeX, an open source document typesetting
