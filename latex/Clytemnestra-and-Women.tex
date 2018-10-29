@@ -31,6 +31,13 @@
 % Document Begins
 \begin{document}
 \maketitle
+
+% Create page numbers in the form Page X of Y. Has to be AFTER \maketitle!
+\makeatletter
+\renewcommand{\@evenfoot}{\hfil Page \thepage{} of \pageref*{LastPage}\hfil}
+\renewcommand{\@oddfoot}{\@evenfoot}
+\makeatother
+
 % \tableofcontents
 % \clearpage
 
