@@ -12,3 +12,9 @@
 \usepackage{booktabs}               % For prettier tables
 \usepackage[style=mla, backend=biber]{biblatex} % Nice MLA bibliography
 \usepackage{geometry}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+% Fancy footer formatting
+\cfoot{\thepage\ of \pageref{LastPage}}
