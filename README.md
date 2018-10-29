@@ -17,6 +17,7 @@ stead of a male hero, seeking justice through revenge.
 ### What are the gender norms for women in Aeschylus's *Agamemnon*?
 Begin by examining the gender norms set forth in *Agamemnon*, especially the
 norms of women in contrast to men:
+
 - Start with an enumeration of every instance where the norms of womanhood are
   displayed or enforced:
   - **Line # `258`:** The Herald which greets Clytemnestra subtly hints at the
@@ -38,6 +39,7 @@ norms of women in contrast to men:
 ### How does Clytemnestra challenge and surpass these gender norms?
 Through textual evidence, show how Clytemnestra challenges the norms set forth
 in *Agamemnon*
+
 - **Line # `275`:** In response to the doubts of the Argive townsmen, rather
   than yielding assent, Clytemnestra vocally refutes their misgivings.
 - **Line # `350`:** The Argive townsmen comments on her speech about her signal
@@ -52,6 +54,7 @@ in *Agamemnon*
   tis' not a woman's part to be fond of contest".
 
 ### How does Clytemnestra's killing of Agamemnon relate to the role of her gender?
+
 - First, note how within Homeric literature, the pursuit of justice through the
   mete of blood (i.e. seeking justice by the sword) is a task that is relegated
   almost entirely to men:
@@ -71,6 +74,7 @@ in *Agamemnon*
   not.
 
 ## Some notes on Clytemnestra's speech
+
 - Note how Clytemnestra displays her husband to the Argive townsmen, and very
   purposely say that it is her intent and forthright will to kill her husband
   -- but immediately, the townsmen dismiss her speech by asking if she is mad.
@@ -84,18 +88,62 @@ in *Agamemnon*
   where she literally takes on the role of Thyestes, the guest of Atreus who
   was wronged evilly.
 
+## Quickstart
+In order to customize this LaTeX template file to your project, simply rename
+the `essay-name.tex` file, and than edit the the included makefile to point at
+the right file again:
 
-## Technical information.
-This essay is written and typeset in LaTeX, an open source document typesetting
-language. Likewise, this essay is version-controlled in git. Previous revisions
-of the essay are available upon request.
-
+### makefile
+```
+# Makefile for latexmk
+source_name = essay-name
+```
 ### Compiling document
-In order to compile latex source files into an display-ready PDF, run `make` in
-the terminal.
-
+In order to compile latex source files, run `make` in the terminal:
 ```
 cd latex
 make
 make clean
 ```
+
+Note: for any partial compiles where compilation fails at a certain point, you
+should run `make clean` followed by make again. Trying to run make after a
+failed compile would result in additional errors.
+
+### Dependencies
+This template uses a makefile to compile the latex source files. The makefile
+uses `latexmk`, which runs latex the correct number of times. This is because
+due to the presense of figures, tables, and biblatex databases, latex needs to
+be called multiple times in some cases. Latexmk should be included in your
+latex installation, but if it is now, you may download it here:
+
+* http://personal.psu.edu/jcc8//software/latexmk-jcc/
+
+Additionally, this template uses XeLaTeX by default, as it allows the inclusion
+of unicode characters in the latex source files. If XeLaTeX is not installed, or
+plain LaTeX is required, simply alter the `makefile` at the appropriate call:
+
+```
+# MAIN LATEXMK RULE
+$(source_name).pdf: $(source_name).tex
+  ...
+	latexmk -pdf -xelatex -use-make $<
+```
+
+XeLaTeX allows one to use foreign characters like ü or æ natively in the latex
+source files, though. So it's probably a good idea to install XeLaTeX:
+
+* http://xetex.sourceforge.net/
+
+### Related documentation
+For an overview of how to populate biblatex `citations.bib` files, visit the
+biblatex-mla manual at CTAN.
+
+* https://www.ctan.org/pkg/biblatex-mla
+
+### GPLv3 License
+The raw template itself is licensed under the terms of the GPL (version 3). A
+full copy of the license is attached in `LICENSE.md`. Naturally, any works
+that you create using this template (i.e. any actual essays you write using
+it) will be your own intellectual property. The GPLv3 license only applies to
+any derivative templates.
