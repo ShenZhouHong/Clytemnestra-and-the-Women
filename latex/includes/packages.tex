@@ -13,8 +13,9 @@
 \usepackage[style=mla, backend=biber]{biblatex} % Nice MLA bibliography
 \usepackage{geometry}
 \usepackage{lastpage}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
 
-% Fancy footer formatting
-\cfoot{\thepage\ of \pageref{LastPage}}
+% Create page numbers in the form Page X of Y 
+\makeatletter
+\renewcommand{\@evenfoot}{\hfil page \thepage{} of \pageref*{LastPage}\hfil}
+\renewcommand{\@oddfoot}{\@evenfoot}
+\makeatother
